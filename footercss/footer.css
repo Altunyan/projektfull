@@ -1,0 +1,192 @@
+.conteynerblue{
+	max-width: 1280px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 128px;
+	padding-top: 59px;
+   flex-flow: row wrap;
+}
+.link1{
+	color: #FFF;
+
+/* Body 1 */
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+margin-left: 24px;
+}
+.homepic{
+	width: 140px;
+height: 28.354px;
+flex-shrink: 0;
+}
+
+.bgblue{
+   background: var(--Black, #232536);
+
+}
+.conteynerblue2{
+
+ max-width: 1280px;
+ height: 282px; 
+margin: auto;
+background-color:  var(--Black, #2a2c3d);
+
+
+}
+.h2subsc{
+   color: #FFF;
+   width: 562px;
+/* Heading H2 */
+font-family: Sen;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; /* 133.333% */
+letter-spacing: -2px;
+}
+.emailAddress{
+   width: 323px;
+height: 56px;
+flex-shrink: 0;
+border: 1px solid var(--Dark-Grey, #4C4C4C);
+background-color: #2a2c3d; 
+padding-left: 25px;
+
+}
+
+
+.btnfoot{
+border: none;
+padding: 16px 48px;
+align-items: flex-start;
+gap: 12px;
+background: var(--Yellow, #FFD050);
+}
+.subfoot{
+   color: var(--Black, #232536);
+font-family: Sen;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 133.333% */
+}
+.flelex{
+   display: flex;
+   justify-content: space-around;
+   margin-top: 54px;
+   padding-top: 110px;
+}
+.fottertext{
+   color: var(--Light, #FFF);
+
+/* Body 1 */
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+opacity: 0.7;
+margin-top: 70px;
+
+}
+.fottertext2{
+   color: var(--Light, #FFF);
+   opacity: 0.7;
+/* Body 1 */
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+display: inline-block;
+}
+.fottercontm{
+   max-width: 1280px;
+   margin: auto;
+   
+}
+ .iconsf1{
+   display: flex;
+justify-content: flex-end;
+padding-bottom: 75px;
+
+} 
+.srcicons1{
+   margin-right:15px; 
+    
+}
+.footerms{
+   display: flex;
+   
+}
+.link1:hover{
+   opacity:0.3;
+   
+}
+.homepic:hover{
+   opacity:0.3;
+}
+@media screen and (max-width: 1280px) {
+   .conteynerblue {
+     margin-right: 20px;
+   }
+ }
+ @media screen and (max-width: 700px) {
+   .conteynerblue {
+     margin-right: 20px;
+     font-size: 36px;
+     display: flex;
+     justify-content: space-around;
+   }
+ }
+ 
+ @media screen and(max-width: 1280px) {
+   .flelex {
+     margin-right: 20px;
+     font-size: 36px;
+     
+   }
+ }
+ @media screen and (max-width: 800px) {
+   .flelex {
+     margin-right: 20px;
+     font-size: 36px;
+     
+   }
+ }
+ @media screen and (max-width: 1280px) {
+   .h2subsc {
+     margin-right: 20px;
+     font-size: 26px;
+    margin-left: 20px;
+   }
+ }
+ @media screen and (max-width: 800px) {
+   .h2subsc {
+     margin-right: 20px;
+     font-size: 23px;
+    margin-left: 10px;
+   }
+ }
+ 
+ @media screen and (max-width: 800px) {
+   .emailAddress {
+     margin-right: 20px;
+     font-size: 10px;
+    margin-left: 10px;
+    width: 130px;
+    
+   }
+ }
+ @media screen and (max-width: 660px) {
+   .h2subsc {
+     margin-right: 20px;
+     font-size: 15px;
+    width: 150px;
+    height: 150px;
+   }
+ }

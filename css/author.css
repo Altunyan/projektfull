@@ -1,0 +1,114 @@
+.bgfotoboy{
+background-image: url('../imig/closere.png');
+ width: 251px;
+height: 294px;
+flex-shrink: 0;
+
+}
+.cont{
+     /* max-width: 1100px;  */
+    margin: 0 auto;
+    display: flex;
+    padding-top: 130px;
+    margin-left: 208px;
+}
+.heater{
+    color: var(--Black, #232536);
+    width: 669px;
+/* Heading H1 */
+font-family: Sen;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 64px; /* 133.333% */
+letter-spacing: -2px;
+margin-left: 32px;
+}
+.textlore{
+    color: var(--Medium-grey, #6D6E76);
+    width: 645px;
+    margin-left: 32px;
+/* Body 1 */
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 175% */
+}
+.iconsf2{
+    display: flex;
+    margin-top: 24px;
+    margin-left: 32px;
+}
+.srcicons2{
+    margin-left:6px;
+   
+}
+.kub{
+    display: flex;
+    margin-left: 208px;
+}
+.kub1{
+    width: 813.693px;
+    height: 24px;
+    flex-shrink: 0;
+background-color: rgba(255, 208, 80, 1);
+margin-top: 160px;
+}
+.kub2{
+    width: 272px;
+height: 23px;
+flex-shrink: 0;
+background-color: #592EA9;
+margin-top: 160px;
+
+}
+.bgfon{
+    background: var(--Lavender, #F4F0F8);
+}
+.heat{
+    margin-top: 128px;
+    color: var(--Black, #232536);
+/* Heading H1 */
+font-family: Sen;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 64px; /* 133.333% */
+letter-spacing: -2px;
+margin-left: 208px;
+}
+.conteynermin{
+    display: flex;
+}
+.bues{
+    margin-top: 120px;
+    margin-left: 32px;
+    width: 170.444px;
+    color: var(--Purple, #592EA9);
+/* Cap 1 */
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px; /* 125% */
+letter-spacing: 3px;
+text-transform: uppercase;
+}
+.bgfotoraper{
+    margin-left: 208px;
+    margin-top: 64px;
+    background-image: url(../imig/stained.png);
+    width: 412px;
+height: 320px;
+flex-shrink: 0;
+}
+
+.bgfotoraper2{
+    margin-left: 208px;
+    margin-top: 64px;
+    background-image: url(../imig/man-in-black1.png);
+    width: 412px;
+height: 320px;
+flex-shrink: 0;
+}
